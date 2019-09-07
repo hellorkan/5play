@@ -1,6 +1,6 @@
 owner=460606140666085378
-prefix=Ha
+prefix=0
 game=
 stayinchannel=true
 songinstatus=true
-token=NjE4NTMzMjcxMTYwMjI1ODAy.XXQBqQ.gKWuYwmHX_Qq2p85MZVxCWtBWoA
+token=NDkyNjQ2ODg1ODg3MTgwODAy.XNA-qg.xv8Oy-ByvhzijbnoWGVrAtJ8UVc
